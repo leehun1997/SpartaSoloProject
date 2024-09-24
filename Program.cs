@@ -29,7 +29,7 @@ namespace ConsoleApp3
             public float Atk = 10;
             public int Def = 5;
             public int Health = 100;
-            public int Gold = 7500;
+            public int Gold = 1000;
             public int exp = 0;
         }
         public struct Item
